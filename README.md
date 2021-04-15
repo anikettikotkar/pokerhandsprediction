@@ -1,6 +1,6 @@
 # pokerhandsprediction
 
-## Introduction: 
+## Description: 
 
 The main motivation behind this project was the application of data mining algorithms along with the use of analytical thinking approach to solve a problem. In the process of the project completion, we would also get familiar to various processes involved in data mining such as data gathering, pre-processing, exploration and various types of algorithms such as classification, clustering, association rules.
 Our motivation behind choosing this problem and this dataset was very straight forward. The data set was simple in structure (just numeric values), there were no complex fields, it had sufficient number of instances (overfitting or underfitting is avoided). This problem would also help us in achieving the project objective. 
